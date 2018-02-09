@@ -12,9 +12,8 @@ var qii404 = {
     /**
      * 题目url
      */
-    // questionUrl: 'http://crop-answer.sm.cn/answer/curr?format=json&_t=%date%&activity='
-    // questionUrl: 'http://crop-answer.sm.cn/answer/curr?format=json&_t=%date%&activity='
-    questionUrl: 'http://crop-answer.sm.cn/answer/curr?format=json&_t=%date%&activity='
+    // questionUrl: 'http://crop-answer.sm.cn/answer/curr?format=json&_t=%date%&activity='，
+    questionUrl: 'http://crop-answer.sm.cn/answer/curr?format=json&_t=%date%&activity='，
 
     /**
      * 搜索链接
