@@ -12,9 +12,9 @@ var qii404 = {
     /**
      * 题目url
      */
-    // questionUrl: 'http://wd.sa.sogou.com/api/ans?key=',
-    // questionUrl: 'http://140.143.49.31/api/ans2?wdcallback=xx&key=',
-    questionUrl: 'https://wdpush.sogoucdn.com/api/anspush?wdcallback=xx&key=',
+    // questionUrl: 'http://crop-answer.sm.cn/answer/curr?format=json&_t=%date%&activity='
+    // questionUrl: 'http://crop-answer.sm.cn/answer/curr?format=json&_t=%date%&activity='
+    questionUrl: 'http://crop-answer.sm.cn/answer/curr?format=json&_t=%date%&activity='
 
     /**
      * 搜索链接
